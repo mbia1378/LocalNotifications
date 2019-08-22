@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">LocalNotif</string>
+    <string name="write_your_text_here">Écrivez votre texte ici (facultatif)</string>
+    <string name="dismiss">Annuler</string>
+    <string name="snooze">Snooze</string>
+    <string name="send_simple_notification">Envoyer une notification simple</string>
+    <string name="send_expand_layout_notification">Envoyer une notification avec mise en page étendue</string>
+    <string name="send_notification_with_action_buttons">Envoyer une notification avec des boutons d\'action</string>
+    <string name="send_max_priority_notification">Envoyer une notification de priorité maximale</string>
+    <string name="send_min_priority_notification">Envoyer une notification de priorité minimale</string>
+    <string name="send_combined_notification">Envoyer une notification combinée</string>
+    <string name="clear_all_notification">Effacer toutes les notifications</string>
+    <string name="notification_title">Titre de la notification (facultatif)</string>
 </resources>
